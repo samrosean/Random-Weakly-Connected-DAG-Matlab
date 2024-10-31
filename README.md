@@ -19,4 +19,4 @@ The algorithm consists of 3 steps.
 
 2. Direct the random tree so that each edge only connects from an i to a j such i < j.
 
-3. Randomly add edges to the upper triangle randomly until the total number of edges is equal to m.
+3. Randomly add edges to the upper triangle until the total number of edges is equal to m.
