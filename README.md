@@ -1,5 +1,5 @@
 # Generating Random Weakly-Connected Directed Acyclic Graphs in Matlab
-Contact: Samuel Rosean - samrosean@einsteinmed.edu
+Contact: Samuel Rosean - samuel.rosean@einsteinmed.edu
 
 ----
 ## randomDAG.m 
